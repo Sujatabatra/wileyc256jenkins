@@ -4,4 +4,5 @@ class Demo{
     while(true){
   }
     System.out.println("Good Bye from main!");
+  }
 }
